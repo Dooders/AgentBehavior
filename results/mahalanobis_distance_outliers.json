@@ -1,0 +1,86 @@
+[
+  {
+    "rank": 1,
+    "agent_id": "WAxmiZ2PSBsG6GXWWDLtVr",
+    "short_id": "XWWDLtVr",
+    "isolation_score": 15.784721909689067,
+    "isolation_metric": "mahalanobis_distance",
+    "metadata": {
+      "agent_id": "WAxmiZ2PSBsG6GXWWDLtVr",
+      "agent_type": "IndependentAgent",
+      "birth_time": 214,
+      "death_time": 296,
+      "generation": 5,
+      "genome_id": "IndependentAgent:5:none:214",
+      "action_diversity": 5,
+      "total_actions": 5740,
+      "avg_resources": 4.405238299403234,
+      "avg_health": 99.5591346208317,
+      "total_reward": 10.120000000000003
+    },
+    "all_metrics": {
+      "mahalanobis_distance": 15.784721909689067,
+      "euclidean_distance": 0.3946356177330017,
+      "cosine_distance": 0.07990115385083318,
+      "mean_pairwise_distance": 0.44203777315597687,
+      "nearest_neighbor_distance": 0.3812869191169739,
+      "local_density": 63
+    }
+  },
+  {
+    "rank": 2,
+    "agent_id": "AsNtm9EtraphMymAN8Vx78",
+    "short_id": "mAN8Vx78",
+    "isolation_score": 15.705928049572375,
+    "isolation_metric": "mahalanobis_distance",
+    "metadata": {
+      "agent_id": "AsNtm9EtraphMymAN8Vx78",
+      "agent_type": "IndependentAgent",
+      "birth_time": 172,
+      "death_time": 593,
+      "generation": 2,
+      "genome_id": "IndependentAgent:2:none:172",
+      "action_diversity": 6,
+      "total_actions": 163769,
+      "avg_resources": 4.050879650889179,
+      "avg_health": 98.1362655469289,
+      "total_reward": 67.92682066342603
+    },
+    "all_metrics": {
+      "mahalanobis_distance": 15.705928049572375,
+      "euclidean_distance": 0.3218257427215576,
+      "cosine_distance": 0.05303937979905249,
+      "mean_pairwise_distance": 0.37788686700283536,
+      "nearest_neighbor_distance": 0.3089044988155365,
+      "local_density": 63
+    }
+  },
+  {
+    "rank": 3,
+    "agent_id": "eymWAoTrGtRrkH6xScYvpu",
+    "short_id": "6xScYvpu",
+    "isolation_score": 15.67740629433445,
+    "isolation_metric": "mahalanobis_distance",
+    "metadata": {
+      "agent_id": "eymWAoTrGtRrkH6xScYvpu",
+      "agent_type": "IndependentAgent",
+      "birth_time": 273,
+      "death_time": 395,
+      "generation": 4,
+      "genome_id": "IndependentAgent:4:none:273",
+      "action_diversity": 5,
+      "total_actions": 13786,
+      "avg_resources": 2.157987762019371,
+      "avg_health": 99.74027556614561,
+      "total_reward": 4.903333333333332
+    },
+    "all_metrics": {
+      "mahalanobis_distance": 15.67740629433445,
+      "euclidean_distance": 0.32211264967918396,
+      "cosine_distance": 0.053128594198392554,
+      "mean_pairwise_distance": 0.3782545628528746,
+      "nearest_neighbor_distance": 0.31747764348983765,
+      "local_density": 63
+    }
+  }
+]

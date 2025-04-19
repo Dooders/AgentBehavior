@@ -1,0 +1,86 @@
+[
+  {
+    "rank": 1,
+    "agent_id": "WAxmiZ2PSBsG6GXWWDLtVr",
+    "short_id": "XWWDLtVr",
+    "isolation_score": 0.3946356177330017,
+    "isolation_metric": "euclidean_distance",
+    "metadata": {
+      "agent_id": "WAxmiZ2PSBsG6GXWWDLtVr",
+      "agent_type": "IndependentAgent",
+      "birth_time": 214,
+      "death_time": 296,
+      "generation": 5,
+      "genome_id": "IndependentAgent:5:none:214",
+      "action_diversity": 5,
+      "total_actions": 5740,
+      "avg_resources": 4.405238299403234,
+      "avg_health": 99.5591346208317,
+      "total_reward": 10.120000000000003
+    },
+    "all_metrics": {
+      "mahalanobis_distance": 15.784721909689067,
+      "euclidean_distance": 0.3946356177330017,
+      "cosine_distance": 0.07990115385083318,
+      "mean_pairwise_distance": 0.44203777315597687,
+      "nearest_neighbor_distance": 0.3812869191169739,
+      "local_density": 63
+    }
+  },
+  {
+    "rank": 2,
+    "agent_id": "nWpvyFJReoFD5Fnq7AEggt",
+    "short_id": "nq7AEggt",
+    "isolation_score": 0.3389967978000641,
+    "isolation_metric": "euclidean_distance",
+    "metadata": {
+      "agent_id": "nWpvyFJReoFD5Fnq7AEggt",
+      "agent_type": "SystemAgent",
+      "birth_time": 0,
+      "death_time": 20,
+      "generation": 0,
+      "genome_id": "SystemAgent:0:none:0",
+      "action_diversity": 2,
+      "total_actions": 340,
+      "avg_resources": -0.575,
+      "avg_health": 100.0,
+      "total_reward": 0.0
+    },
+    "all_metrics": {
+      "mahalanobis_distance": 15.60451229194779,
+      "euclidean_distance": 0.3389967978000641,
+      "cosine_distance": 0.059094880236834846,
+      "mean_pairwise_distance": 0.3918508212008173,
+      "nearest_neighbor_distance": 0.33047065138816833,
+      "local_density": 63
+    }
+  },
+  {
+    "rank": 3,
+    "agent_id": "B2bobDutokdmPYSCSMTVA2",
+    "short_id": "SCSMTVA2",
+    "isolation_score": 0.3381291925907135,
+    "isolation_metric": "euclidean_distance",
+    "metadata": {
+      "agent_id": "B2bobDutokdmPYSCSMTVA2",
+      "agent_type": "IndependentAgent",
+      "birth_time": 280,
+      "death_time": 1186,
+      "generation": 6,
+      "genome_id": "IndependentAgent:6:none:280",
+      "action_diversity": 6,
+      "total_actions": 750168,
+      "avg_resources": 3.2001110264029644,
+      "avg_health": 97.84847219587682,
+      "total_reward": 117.30227161762167
+    },
+    "all_metrics": {
+      "mahalanobis_distance": 15.494449537148467,
+      "euclidean_distance": 0.3381291925907135,
+      "cosine_distance": 0.058624838779632094,
+      "mean_pairwise_distance": 0.3914675291568514,
+      "nearest_neighbor_distance": 0.3114989399909973,
+      "local_density": 63
+    }
+  }
+]
